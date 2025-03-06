@@ -133,9 +133,9 @@ Use these files to complete the implementation:
 **The following instructions are required for the tests to pass**
 
 - `BsPlusSquare`, `BsDashSquare` icons from `react-icons` should be used for **plus** and **minus** buttons in cart item
-- The Cart Item should consist of two HTML button elements with testid attribute values as **plus** and **minus** respectively
+- The Cart Item should consist of two HTML button elements with data-testid attribute values as **plus** and **minus** respectively
 - `AiFillCloseCircle` icon from react-icons should be used for **remove** button in cartItem
-- The Cart Item should consist of an HTML button element with testid attribute values as **remove**
+- The Cart Item should consist of an HTML button element with data-testid attribute values as **remove**
 - The product image in **Cart Item** Route should have the alt as `title` of the product
 
 - Prime User credentials
